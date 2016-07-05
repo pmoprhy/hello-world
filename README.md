@@ -1,2 +1,2 @@
 # hello-world
-test github
+hi i'm mike. i dont like capital letters. (or apostrophes)
